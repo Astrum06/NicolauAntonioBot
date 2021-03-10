@@ -1,0 +1,5 @@
+discord
+discord[audio]
+youtube_dl
+youtube-search
+shutil
